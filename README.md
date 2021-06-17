@@ -17,5 +17,4 @@ Our statistics:
 🛸 More than 100 private Smart Contract audits.
 🎊 50 Staking and 30 Farming Smart Contracts developed.
 🧨 More than 50 Token and Custom Smart Contracts developed.
-Connect with us:
-Techrate | TwitterTechrate | LinkedInTechrate | LinkedInTechrate | Telegram
+
